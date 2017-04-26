@@ -47,7 +47,7 @@ class ViewController: UIViewController {
             } else if let msg = resp as? String{
                 print(msg)
             } else {
-                print("发生了神秘事件！")
+                print("发生了神秘事件！!")
             }
         }
     }
